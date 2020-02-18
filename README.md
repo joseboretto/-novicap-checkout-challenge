@@ -1,7 +1,8 @@
 # novicap-checkout-challenge
 
 https://novicap.com/
-https://gitlab.com/joseboretto/novicap-checkout-challenge
+
+Code: https://gitlab.com/joseboretto/novicap-checkout-challenge
 
 ## Challenge Author 
 
